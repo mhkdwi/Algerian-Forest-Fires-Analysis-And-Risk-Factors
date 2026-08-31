@@ -25,3 +25,15 @@ Data menjadi jauh lebih bersih (243 baris valid) dan siap untuk dianalisis secar
 Saya membuat sebuah dashboard di Power BI dari data yang telah dibersihkan  
 
 ![Teks Alternatif](dashboard.jpg)  
+
+**Beberapa informasi dari dashboard:**  
+1. Dari total 243 hari pengamatan, terjadi 137 kali insiden kebakaran hutan dengan tingkat risiko kejadian (fire rate) mencapai 56.4%. 
+2. Rata-rata suhu udara saat terjadi kebakaran hutan adalah 33.8 °C.  
+3. Sidi Bel-Abbes menjadi wilayah paling rawan kebakaran dengan total 79 insiden, jauh lebih tinggi dibandingkan Bejaia yang mencatatkan 58 insiden.  
+4. Bulan Agustus merupakan puncak musim kebakaran hutan (peak month) dengan total 51 kejadian, seiring tingginya suhu udara dan musim kemarau kering di pertengahan tahun.  
+5. Kebakaran hutan sangat masif terjadi pada rentang suhu > 30°C dan kelembapan udara (RH) < 60%. Saat suhu menembus di atas 35°C dengan kelembapan di bawah 40%, potensi terjadinya kebakaran hutan hampir mencapai 100%.  
+
+**Strategi dan rekomendasi dari informasi yang ada:**  
+1. Indikator suhu > 30°C dan kelembapan < 60% harus dijadikan Early Warning System (sistem peringatan dini). Ketika stasiun cuaca mencatat angka ini, status siaga bahaya kebakaran harus otomatis diaktifkan sebelum titik api pertama muncul.  
+2. Membuat pos pemadam kebakaran utama, armada tangki air, dan pos pengawasan terutama di Sidi Bel-Abbes. Seperti menempatkan pemadam api di lokasi yang rumahnya paling mudah terbakar.  
+3. Mulai akhir juli sampai agustus, mempersiapkan patroli ekstra 24 jam dan batasi aktivitas warga yang memicu percikan api di sekitar hutan seperti buang puntung rokok atau api unggun.
