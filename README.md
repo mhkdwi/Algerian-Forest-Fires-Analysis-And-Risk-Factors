@@ -6,7 +6,10 @@ Aljazair merupakan negara terbesar di Afrika yang wilayah utaranya berbatasan la
 
 Analisis ini berfokus pada 2 wilayah utama di utara Aljazair:  
 1. Bejaia (Wilayah pesisir timur laut Aljazair)
-2. Sidi Bel-Abbes (Wilayah pedalaman barat laut Aljazair)
+2. Sidi Bel-Abbes (Wilayah pedalaman barat laut Aljazair)  
+
+![Teks Alternatif](forest_fires.jpeg)
+<p align="center"><i>Forest Fires</i></p>  
 
 Data ini berisi pencatatan harian parameter cuaca (suhu, kelembapan, kecepatan angin, curah hujan) dan komponen Fire Weather Index (FWI) dari bulan Juni hingga September 2012, dengan total awal 244 baris data.  
 
@@ -21,5 +24,4 @@ Data menjadi jauh lebih bersih (243 baris valid) dan siap untuk dianalisis secar
 
 Saya membuat sebuah dashboard di Power BI dari data yang telah dibersihkan  
 
-![Teks Alternatif](forest_fires.jpeg)
-<p align="center"><i>Forest Fires</i></p>  
+
