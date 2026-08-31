@@ -21,4 +21,5 @@ Data menjadi jauh lebih bersih (243 baris valid) dan siap untuk dianalisis secar
 
 Saya membuat sebuah dashboard di Power BI dari data yang telah dibersihkan  
 
-
+![Teks Alternatif](forest fires.jpeg)
+<p align="center"><i>Forest Fires</i></p>  
